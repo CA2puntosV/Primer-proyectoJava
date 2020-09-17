@@ -9,7 +9,7 @@ public class Dolar_peso {
 	
 	double ope = Cantidad* peso;
 	
-	JOptionPane.showInputDialog(null, "La cantidad de dólares a pesos es: ",ope);
+	JOptionPane.showInputDialog(null, "La cantidad de dólares a pesos colombianos es: ",ope);
 	
 	}
 }
